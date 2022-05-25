@@ -1,0 +1,30 @@
+
+`
+java:S1192"JDefine a constant instead of duplicating this literal "loginName" 3 times.(ßê¬¯
+^
+java:S11920"HDefine a constant instead of duplicating this literal "Manager" 4 times.(Ò³Ì‘
+}
+java:S1104"bMake handleAddReimbursement a static final constant or non-public and provide accessors if needed.(˜ñ®ûÿÿÿÿ
+~
+java:S1104""cMake handleViewReimbursement a static final constant or non-public and provide accessors if needed.(Æ´®Éüÿÿÿÿ
+€
+java:S1104/"eMake handleUpdateReimbursement a static final constant or non-public and provide accessors if needed.(Ğ˜Ã¤úÿÿÿÿ
+z
+java:S1104<"eMake handleDeleteReimbursement a static final constant or non-public and provide accessors if needed.(úÅD
+…
+java:S1104I"jMake handleViewReimbursementsByUser a static final constant or non-public and provide accessors if needed.(­Ö¥äÿÿÿÿÿ
+‚
+java:S1104U"gMake handleViewAllReimbursements a static final constant or non-public and provide accessors if needed.(÷™Øôÿÿÿÿÿ
+L
+java:S1611"1Remove the parentheses around the "ctx" parameter(˜ñ®ûÿÿÿÿ
+L
+java:S1611""1Remove the parentheses around the "ctx" parameter(Æ´®Éüÿÿÿÿ
+L
+java:S1611/"1Remove the parentheses around the "ctx" parameter(Ğ˜Ã¤úÿÿÿÿ
+F
+java:S1611<"1Remove the parentheses around the "ctx" parameter(úÅD
+V	java:S125D"<This block of commented-out lines of code should be removed.(ÅìæÁıÿÿÿÿ
+L
+java:S1611I"1Remove the parentheses around the "ctx" parameter(­Ö¥äÿÿÿÿÿ
+L
+java:S1611U"1Remove the parentheses around the "ctx" parameter(÷™Øôÿÿÿÿÿ

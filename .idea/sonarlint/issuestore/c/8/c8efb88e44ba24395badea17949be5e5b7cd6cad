@@ -1,0 +1,32 @@
+
+c
+java:S1192#"HDefine a constant instead of duplicating this literal "Manager" 5 times.(‰•‰—úÿÿÿÿ
+q
+java:S1104"[Make handleUserLogin a static final constant or non-public and provide accessors if needed.(Á¤®
+w
+java:S1104)"\Make handleUserLogout a static final constant or non-public and provide accessors if needed.(®ìÀªÿÿÿÿÿ
+}
+java:S1104/"bMake handleUserRegistration a static final constant or non-public and provide accessors if needed.(Ã ›ãıÿÿÿÿ
+t
+java:S11047"^Make handleViewUserById a static final constant or non-public and provide accessors if needed.(ó­ëú
+r
+java:S1104B"\Make handleUpdateUser a static final constant or non-public and provide accessors if needed.(¢ÓäŒ
+r
+java:S1104P"\Make handleDeleteUser a static final constant or non-public and provide accessors if needed.(ÌØ†¿
+t
+java:S1104\"^Make handleViewAllUsers a static final constant or non-public and provide accessors if needed.(¨ß§Ú
+G
+java:S1611"1Remove the parentheses around the "ctx" parameter(Á¤®
+L
+java:S1611)"1Remove the parentheses around the "ctx" parameter(®ìÀªÿÿÿÿÿ
+L
+java:S1611/"1Remove the parentheses around the "ctx" parameter(Ã ›ãıÿÿÿÿ
+G
+java:S16117"1Remove the parentheses around the "ctx" parameter(ó­ëú
+G
+java:S1611B"1Remove the parentheses around the "ctx" parameter(¢ÓäŒ
+G
+java:S1611P"1Remove the parentheses around the "ctx" parameter(ÌØ†¿
+V	java:S125W"<This block of commented-out lines of code should be removed.(“¾‡“üÿÿÿÿ
+G
+java:S1611\"1Remove the parentheses around the "ctx" parameter(¨ß§Ú
